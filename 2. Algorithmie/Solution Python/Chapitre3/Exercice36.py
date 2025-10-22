@@ -27,7 +27,7 @@ match age:
         categorie="Cadet"
     case _:
         categorie="Non classé"
-            
+
 
 # Afficher la catégorie de l'enfant
 print(f"L'enfant est dans la catégorie {categorie}.")
