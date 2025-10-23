@@ -1,0 +1,16 @@
+# liste = [1,2,5,4,6]
+# print(liste)
+# liste.append(11)
+# liste.sort()
+# liste.remove(5)
+# liste.reverse()
+# liste.insert(2,12)
+# print(liste[2])
+# print(liste[2:4])
+# print(liste[:4])
+# print(liste[2:])
+# print(liste.pop(2))
+# liste.clear()
+# print(liste.index(5))
+# print(liste)
+
